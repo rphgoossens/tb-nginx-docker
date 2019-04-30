@@ -1,5 +1,5 @@
 # Use the standard Nginx image from Docker Hub
-FROM nginx
+FROM nginx:1.15.12
 
 # The Dockerfile's author
 LABEL Roger Goossens
